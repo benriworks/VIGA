@@ -122,6 +122,7 @@ Custom data: place in `data/dynamic_scene/<your-data-name>` following the format
 | [Architecture](docs/architecture.md) | System design and agent tools |
 | [Requirements](requirements/README.md) | Conda environment setup |
 | [Runners](runners/README.md) | Batch execution options |
+| [リポジトリ構造（日本語）](docs/REPOSITORY_STRUCTURE_JA.md) | Comprehensive repository documentation in Japanese |
 
 <br>
 
